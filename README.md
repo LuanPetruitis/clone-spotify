@@ -6,12 +6,12 @@
 Clone do Spotify para treinar conhecimentos com TailwindCSS.
 
 ## Layout mobile
-![Mobile 1](https://github.com/clone-spotify/imagens/mobile_inicio.png) ![Mobile 2](https://github.com/clone-spotify/imagens/mobile.png)
+![Mobile 1](imagens/mobile_inicio.png) ![Mobile 2](imagens/mobile.png)
 
 ## Layout web
-![Web 1](https://github.com/clone-spotify/imagens/desktop.png)
+![Web 1](imagens/desktop.png)
 
-![Web 2](https://github.com/clone-spotify/imagens/desktop_footer.png)
+![Web 2](imagens/desktop_footer.png)
 
 
 # Tecnologias utilizadas
