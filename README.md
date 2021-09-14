@@ -6,21 +6,19 @@
 Clone do Spotify para treinar conhecimentos com TailwindCSS.
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://github.com/clone-spotify/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 ## Layout web
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
 # Tecnologias utilizadas
 ## Front end
 - HTML 
 - TailwindCSS
-- 
+
 # Como executar o projeto
 
 ## Front end web
@@ -31,13 +29,13 @@ Pré-requisitos: npm / yarn
 git clone https://github.com/devsuperior/sds1-wmazoni
 
 # entrar na pasta do projeto front end web
-cd front-web
+cd clone-spotify
 
 # instalar dependências
-yarn install
+npm install
 
 # executar o projeto
-yarn start
+Executar a extensão live-server
 ```
 
 # Autor
