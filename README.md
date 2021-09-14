@@ -6,12 +6,12 @@
 Clone do Spotify para treinar conhecimentos com TailwindCSS.
 
 ## Layout mobile
-![Mobile 1](https://github.com/clone-spotify/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://github.com/clone-spotify/imagens/mobile_inicio.png) ![Mobile 2](https://github.com/clone-spotify/imagens/mobile.png)
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/clone-spotify/imagens/desktop.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](https://github.com/clone-spotify/imagens/desktop_footer.png)
 
 
 # Tecnologias utilizadas
@@ -26,7 +26,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+git clone https://github.com/LuanPetruitis/clone-spotify.git
 
 # entrar na pasta do projeto front end web
 cd clone-spotify
